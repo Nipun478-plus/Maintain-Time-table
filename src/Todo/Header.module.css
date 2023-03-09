@@ -1,0 +1,28 @@
+.main{
+    /* display: flex; */
+    /* justify-content: center; */
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+    margin: 20px;
+}
+
+.logo{
+    margin: 20px;
+    color: white;
+}
+
+.logo img{
+    height: 2rem;
+    width: 2rem;
+    filter: brightness(100) invert(1);
+}
+
+.logo span{
+    font-weight: bolder;
+    margin-left: 15px;
+    position: absolute;
+    top: 23px;
+    
+}

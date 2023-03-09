@@ -1,0 +1,73 @@
+
+
+body{
+    background-color: rgba(31, 31, 31, 0.908);
+}
+.container{
+    min-height: 100vh;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:5rem;
+    
+}
+
+.logimg{
+    height: 19rem;
+    width: 19rem;
+    margin-right: 10px;
+}
+
+.innerBox{
+    height: 500px; 
+    width: 400px;
+
+    color: white;
+    
+    
+}
+.loghead{
+    position: relative;
+    left: 30%;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.error{
+    color:red;
+    font-size: 0.7rem;
+}
+.lbtn{
+    width: 90%;
+    padding: 12px 20px;
+    
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box; border-radius: 7px;
+      border: 1px solid ;
+      padding: 10px 15px;
+      background-color:lightblue;
+}
+.lbtn:hover{
+     background-color: blueviolet;
+     cursor: pointer;
+     transition: all 1s;
+}
+.ss{
+    width:100%;
+
+Text-align:left;
+
+float:left;
+font-size: 0.8rem;
+
+}
+.sss{
+    color: green;
+}
+

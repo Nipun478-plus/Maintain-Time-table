@@ -1,0 +1,15 @@
+.inbox{
+
+    /* display: flex; */
+    position: absolute;
+    left: 35%;
+    top: 30%;
+}
+.inbox h2{
+    font-size: 2rem;
+    color: white;
+
+}
+text{
+    color: white;
+}

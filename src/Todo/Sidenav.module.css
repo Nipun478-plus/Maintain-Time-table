@@ -1,0 +1,32 @@
+.sidenav{
+    /* border: 2px solid black; */
+    border-radius: 0.7rem;
+    width: 20%;
+    display: grid; 
+    place-items: center center;
+}
+.inbox{
+    /* margin: auto; */
+    /* height: 130%; */
+    padding: 10px;
+    width: 50%;
+    font-size: 1rem;
+    border-radius: 0.8rem;
+    background-color: aqua;
+}
+.today{
+    /* margin: auto; */
+    /* height: 130%; */
+    padding: 10px;
+    width: 50%;
+    font-size: 1rem;
+    border-radius: 0.8rem;
+    background-color: aqua;
+}
+.next{
+    padding: 10px;
+    width: 50%;
+    font-size: 1rem;
+    border-radius: 0.8rem;
+    background-color: aqua;
+}
